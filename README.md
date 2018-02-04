@@ -1,0 +1,2 @@
+# VueQuasarSideMenu
+Created with CodeSandbox
